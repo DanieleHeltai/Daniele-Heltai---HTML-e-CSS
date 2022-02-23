@@ -105,7 +105,7 @@ a:visited {
 }
 
 #about-button:after{
-  content:url("https://github.com/DanieleHeltai/Daniele-Heltai-HTML-e-CSS/blob/3bce2d7e58bc3f5615bed96080eb22c1182d55e1/img/about-bg.png");
+  content:url(../img/about-bg.png);
   position:absolute;
   top:-241px;
   left:-220;
